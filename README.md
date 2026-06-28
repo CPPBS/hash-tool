@@ -19,8 +19,8 @@
 - **交互菜单** – 启动后显示算法列表，输入数字选择，或输入 `a` 一次性计算全部 7 种哈希。  
   *Interactive menu – choose an algorithm by number, or enter `a` for all 7 hashes.*
 
-- **拖拽支持** – 将文件直接拖到批处理文件图标上，或在交互模式下拖入控制台窗口。  
-  *Drag‑and‑drop – drop files onto the batch file or into the console window.*
+- **拖拽支持** – 将文件直接拖到批处理文件图标上。  
+  *Drag‑and‑drop – drop files onto the batch file.*
 
 - **多文件处理** – 依次处理每个拖入的文件，并分别显示结果。  
   *Multi‑file processing – each file is processed and its hash(es) displayed.*
